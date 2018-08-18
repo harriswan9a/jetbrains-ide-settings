@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="testCaseMethodWithJUnit4" value="/**&#10; * 案例說明：&lt;br&gt;&#10; * 輸入參數：&lt;br&gt;&#10; * 斷言結果：&lt;br&gt;&#10; */&#10;@Test&#10;public void testCase$NAME$() throws Exception {&#10;    $BODY$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
