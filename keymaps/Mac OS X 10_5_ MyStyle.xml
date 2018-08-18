@@ -22,6 +22,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="VimPluginToggle">
-    <keyboard-shortcut first-keystroke="meta semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
 </keymap>
