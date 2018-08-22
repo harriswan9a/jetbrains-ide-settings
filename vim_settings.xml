@@ -9,6 +9,7 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
+      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/src/androidTest/java/com/gamasys/gpms365/NavigationURLTest.java" timestamp="1534924198403" />
     </filemarks>
     <jumps />
     <registers>
@@ -22,15 +23,7 @@
     </search>
     <history>
       <history-search />
-      <history-cmd>
-        <entry>new</entry>
-        <entry>vnew</entry>
-        <entry>sp ./vimrc</entry>
-        <entry>sp second.py</entry>
-        <entry>q!</entry>
-        <entry>vsp second</entry>
-        <entry>vsp second.py</entry>
-      </history-cmd>
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
