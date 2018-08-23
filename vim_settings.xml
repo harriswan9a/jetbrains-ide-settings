@@ -15,18 +15,22 @@
         <mark key="." line="47" column="46" />
         <mark key="^" line="47" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535009454277">
+      <file name="/Dummy.txt" timestamp="1535015462747">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" timestamp="1535008610895">
-        <mark key="[" line="23" column="9" />
-        <mark key="]" line="221" column="8" />
-        <mark key="^" line="221" column="8" />
-        <mark key="." line="221" column="8" />
+      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" timestamp="1535014980909">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="8" />
+        <mark key="^" line="23" column="8" />
+        <mark key="." line="23" column="8" />
       </file>
-      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/src/main/java/com/gamasys/gpms365/AIOApplication.java" timestamp="1535009154891">
-        <mark key="[" line="58" column="68" />
+      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/src/main/java/com/gamasys/gpms365/AIOApplication.java" timestamp="1535015171084">
+        <mark key="'" line="58" column="67" />
+        <mark key="[" line="58" column="69" />
+        <mark key="]" line="58" column="69" />
+        <mark key="." line="58" column="69" />
       </file>
+      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/setting_res/host_Debug.json" timestamp="1535014622183" />
       <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/sh/update_icon_from_jenkins.sh" timestamp="1535003878653">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="11" column="0" />
@@ -35,61 +39,71 @@
     </filemarks>
     <jumps>
       <jump line="16" column="25" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/sh/update_setting_res_from_jenkins.sh" />
+      <jump line="175" column="15" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" />
+      <jump line="69" column="50" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/src/main/java/com/gamasys/gpms365/AIOApplication.java" />
+      <jump line="144" column="67" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/src/main/java/com/gamasys/gpms365/AIOApplication.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>loho</text>
+        <text>toLow</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y3AgLXIgIiR7U0VUVElOR19SRVNfRElSfS9hcmNoaXZlL3NldHRpbmdzX3Jlcy8uanNvbiIgIiR7U0VUVElOR19SRVNfRElSfS8uLi9zZXR0aW5nX3Jlcy8iCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>\&quot;推播網站\n&quot; +
+            &quot;https://yunba.io/\n&quot; +
+            &quot;API\n&quot; +
+            &quot;应用包名:wnas168.com\n&quot; +
+            &quot;AppKey:5b73eb5b3fe650463874a037&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIiQodHB1dCBzZ3IwKSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50ZiAidXQgc2V0YWYgNCkiCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIiQodHB1dCBzZ3IwKSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZiAidXQgc2V0YWYgNCkiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2VjaG8gIiR7UFMxfSIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGQjUFMxPSJcWyQodHB1dCBib2xkKSQodHB1dCBzZXRiIDQpJCh0cHV0IHNldGFmIDIpXF1cdUBcaDpcdyAkIFxbJCh0cHV0IHNncjApXF0iCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgoKI2N1cmwgLVggUE9TVCAiaHR0cDovL290aXNsZWU6N2U5ZDBkYjA1YWQ2NDJjODdhZTllOTZlOWRjYmJjYzJAMTkyLjE2OC4xMjMuMTIxOjQ5MDAxL3ZpZXcvT3RoZXIvam9iL090aGVyLUNDTS1QdXJnZS1DYWNoZS9idWlsZFdpdGhQYXJhbWV0ZXJzP3Rva2VuPTdlOWQwZGIwNWFkNjQyYzg3YWU5ZTk2ZTlkY2JiY2MyJnByb2R1Y3RfbmFtZT0ke1BST0pfTkFNRX0mcmVsZWFzZT10cnVlIiAtSCAiSmVua2lucy1DcnVtYjoyY2E3Njk4NmRjOTc1ODhmNzMwNzViNDZkZDQzM2Y4YSIKCiNodHRwOi8vKi4qLiouKjo4MDgwL2pvYi9NeVByb2plY3QvbGFzdFN1Y2Nlc3NmdWxCdWlsZC9hcnRpZmFjdC8qemlwKi9teWZpbGUuemlw</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">I2VjaG8gIiR7UFMxfSIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGQjUFMxPSJcWyQodHB1dCBib2xkKSQodHB1dCBzZXRiIDQpJCh0cHV0IHNldGFmIDIpXF1cdUBcaDpcdyAkIFxbJCh0cHV0IHNncjApXF0iCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CgoKI2N1cmwgLVggUE9TVCAiaHR0cDovL290aXNsZWU6N2U5ZDBkYjA1YWQ2NDJjODdhZTllOTZlOWRjYmJjYzJAMTkyLjE2OC4xMjMuMTIxOjQ5MDAxL3ZpZXcvT3RoZXIvam9iL090aGVyLUNDTS1QdXJnZS1DYWNoZS9idWlsZFdpdGhQYXJhbWV0ZXJzP3Rva2VuPTdlOWQwZGIwNWFkNjQyYzg3YWU5ZTk2ZTlkY2JiY2MyJnByb2R1Y3RfbmFtZT0ke1BST0pfTkFNRX0mcmVsZWFzZT10cnVlIiAtSCAiSmVua2lucy1DcnVtYjoyY2E3Njk4NmRjOTc1ODhmNzMwNzViNDZkZDQzM2Y4YSIKCiNodHRwOi8vKi4qLiouKjo4MDgwL2pvYi9NeVByb2plY3QvbGFzdFN1Y2Nlc3NmdWxCdWlsZC9hcnRpZmFjdC8qemlwKi9teWZpbGUuemlw</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICBleGl0IGQxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>loho</last-search>
+      <last-search>toLow</last-search>
       <last-offset />
-      <last-pattern>loho</last-pattern>
+      <last-pattern>toLow</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>loho</entry>
+        <entry>appkey</entry>
+        <entry>App</entry>
+        <entry>toLow</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
