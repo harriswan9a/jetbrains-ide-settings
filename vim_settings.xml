@@ -9,55 +9,90 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
+      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/sh/update_setting_res_from_jenkins.sh" timestamp="1535007928276">
+        <mark key="[" line="47" column="7" />
+        <mark key="]" line="47" column="46" />
+        <mark key="." line="47" column="46" />
+        <mark key="^" line="47" column="46" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1535009454277">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" timestamp="1535008610895">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="221" column="8" />
+        <mark key="^" line="221" column="8" />
+        <mark key="." line="221" column="8" />
+      </file>
+      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/src/main/java/com/gamasys/gpms365/AIOApplication.java" timestamp="1535009154891">
+        <mark key="[" line="58" column="68" />
+      </file>
       <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/sh/update_icon_from_jenkins.sh" timestamp="1535003878653">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="16" column="25" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/sh/update_setting_res_from_jenkins.sh" />
+    </jumps>
     <registers>
-      <register name="0" type="8">
-        <text>$(tput setaf 196)$(tput sgr0)</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
+      </register>
+      <register name="-" type="4">
+        <text>s</text>
+      </register>
+      <register name="/" type="4">
+        <text>loho</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">Y3AgLXIgIiR7U0VUVElOR19SRVNfRElSfS9hcmNoaXZlL3NldHRpbmdzX3Jlcy8uanNvbiIgIiR7U0VUVElOR19SRVNfRElSfS8uLi9zZXR0aW5nX3Jlcy8iCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="2" type="2">
-        <text encoding="base64">I2VjaG8gIiR7UFMxfSIK</text>
+        <text encoding="base64">ICAgIGVjaG8gIiQodHB1dCBzZ3IwKSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGQjUFMxPSJcWyQodHB1dCBib2xkKSQodHB1dCBzZXRiIDQpJCh0cHV0IHNldGFmIDIpXF1cdUBcaDpcdyAkIFxbJCh0cHV0IHNncjApXF0iCg==</text>
+        <text encoding="base64">ICAgIHByaW50ZiAidXQgc2V0YWYgNCkiCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgoKI2N1cmwgLVggUE9TVCAiaHR0cDovL290aXNsZWU6N2U5ZDBkYjA1YWQ2NDJjODdhZTllOTZlOWRjYmJjYzJAMTkyLjE2OC4xMjMuMTIxOjQ5MDAxL3ZpZXcvT3RoZXIvam9iL090aGVyLUNDTS1QdXJnZS1DYWNoZS9idWlsZFdpdGhQYXJhbWV0ZXJzP3Rva2VuPTdlOWQwZGIwNWFkNjQyYzg3YWU5ZTk2ZTlkY2JiY2MyJnByb2R1Y3RfbmFtZT0ke1BST0pfTkFNRX0mcmVsZWFzZT10cnVlIiAtSCAiSmVua2lucy1DcnVtYjoyY2E3Njk4NmRjOTc1ODhmNzMwNzViNDZkZDQzM2Y4YSIKCiNodHRwOi8vKi4qLiouKjo4MDgwL2pvYi9NeVByb2plY3QvbGFzdFN1Y2Nlc3NmdWxCdWlsZC9hcnRpZmFjdC8qemlwKi9teWZpbGUuemlw</text>
-      </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyAgICBleGl0IGQxCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">I2VjaG8gIiR7UFMxfSIK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyAgICBlY2hvICJbRVJST1JdIFVua25vd24gYnVpbGQgbnVtYmVyIgo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZGQjUFMxPSJcWyQodHB1dCBib2xkKSQodHB1dCBzZXRiIDQpJCh0cHV0IHNldGFmIDIpXF1cdUBcaDpcdyAkIFxbJCh0cHV0IHNncjApXF0iCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CgoKI2N1cmwgLVggUE9TVCAiaHR0cDovL290aXNsZWU6N2U5ZDBkYjA1YWQ2NDJjODdhZTllOTZlOWRjYmJjYzJAMTkyLjE2OC4xMjMuMTIxOjQ5MDAxL3ZpZXcvT3RoZXIvam9iL090aGVyLUNDTS1QdXJnZS1DYWNoZS9idWlsZFdpdGhQYXJhbWV0ZXJzP3Rva2VuPTdlOWQwZGIwNWFkNjQyYzg3YWU5ZTk2ZTlkY2JiY2MyJnByb2R1Y3RfbmFtZT0ke1BST0pfTkFNRX0mcmVsZWFzZT10cnVlIiAtSCAiSmVua2lucy1DcnVtYjoyY2E3Njk4NmRjOTc1ODhmNzMwNzViNDZkZDQzM2Y4YSIKCiNodHRwOi8vKi4qLiouKjo4MDgwL2pvYi9NeVByb2plY3QvbGFzdFN1Y2Nlc3NmdWxCdWlsZC9hcnRpZmFjdC8qemlwKi9teWZpbGUuemlw</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IyAgICBleGl0IGQxCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
-      <register name="-" type="4">
-        <text>Please input jenkins build number : $</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>loho</last-search>
+      <last-offset />
+      <last-pattern>loho</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>loho</entry>
+      </history-search>
       <history-cmd>
+        <entry>w</entry>
         <entry>wq</entry>
       </history-cmd>
       <history-expr />
@@ -66,6 +101,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
