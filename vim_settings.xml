@@ -9,12 +9,38 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/src/androidTest/java/com/gamasys/gpms365/NavigationURLTest.java" timestamp="1534929908533" />
+      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/sh/update_icon_from_jenkins.sh" timestamp="1534997007859">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="15" column="37" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="8">
+        <text>$(tput setaf 196)$(tput sgr0)</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">CgoKI2N1cmwgLVggUE9TVCAiaHR0cDovL290aXNsZWU6N2U5ZDBkYjA1YWQ2NDJjODdhZTllOTZlOWRjYmJjYzJAMTkyLjE2OC4xMjMuMTIxOjQ5MDAxL3ZpZXcvT3RoZXIvam9iL090aGVyLUNDTS1QdXJnZS1DYWNoZS9idWlsZFdpdGhQYXJhbWV0ZXJzP3Rva2VuPTdlOWQwZGIwNWFkNjQyYzg3YWU5ZTk2ZTlkY2JiY2MyJnByb2R1Y3RfbmFtZT0ke1BST0pfTkFNRX0mcmVsZWFzZT10cnVlIiAtSCAiSmVua2lucy1DcnVtYjoyY2E3Njk4NmRjOTc1ODhmNzMwNzViNDZkZDQzM2Y4YSIKCiNodHRwOi8vKi4qLiouKjo4MDgwL2pvYi9NeVByb2plY3QvbGFzdFN1Y2Nlc3NmdWxCdWlsZC9hcnRpZmFjdC8qemlwKi9teWZpbGUuemlw</text>
+      </register>
+      <register name="&quot;" type="8">
+        <text>$(tput setaf 196)$(tput sgr0)</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyAgICBleGl0IGQxCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyAgICBlY2hvICJbRVJST1JdIFVua25vd24gYnVpbGQgbnVtYmVyIgo=</text>
+      </register>
       <register name=":" type="4">
-        <text>vsp second.py</text>
+        <text>wq</text>
+      </register>
+      <register name="-" type="4">
+        <text>Please input jenkins build number : $</text>
       </register>
     </registers>
     <search>
@@ -23,10 +49,16 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
