@@ -18,11 +18,12 @@
       <file name="/Dummy.txt" timestamp="1535015462747">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" timestamp="1535014980909">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="8" />
-        <mark key="^" line="23" column="8" />
-        <mark key="." line="23" column="8" />
+      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" timestamp="1535539640226">
+        <mark key="'" line="287" column="17" />
+        <mark key="[" line="39" column="12" />
+        <mark key="]" line="220" column="23" />
+        <mark key="^" line="220" column="23" />
+        <mark key="." line="220" column="23" />
       </file>
       <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/src/main/java/com/gamasys/gpms365/AIOApplication.java" timestamp="1535015171084">
         <mark key="'" line="58" column="67" />
@@ -30,7 +31,6 @@
         <mark key="]" line="58" column="69" />
         <mark key="." line="58" column="69" />
       </file>
-      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/setting_res/host_Debug.json" timestamp="1535014622183" />
       <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/sh/update_icon_from_jenkins.sh" timestamp="1535003878653">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="11" column="0" />
@@ -42,6 +42,8 @@
       <jump line="175" column="15" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" />
       <jump line="69" column="50" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/src/main/java/com/gamasys/gpms365/AIOApplication.java" />
       <jump line="144" column="67" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/src/main/java/com/gamasys/gpms365/AIOApplication.java" />
+      <jump line="220" column="23" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" />
+      <jump line="287" column="17" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -51,7 +53,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>toLow</text>
+        <text>bugsna</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y3AgLXIgIiR7U0VUVElOR19SRVNfRElSfS9hcmNoaXZlL3NldHRpbmdzX3Jlcy8uanNvbiIgIiR7U0VUVElOR19SRVNfRElSfS8uLi9zZXR0aW5nX3Jlcy8iCg==</text>
@@ -92,9 +94,9 @@
       </register>
     </registers>
     <search>
-      <last-search>toLow</last-search>
+      <last-search>bugsna</last-search>
       <last-offset />
-      <last-pattern>toLow</last-pattern>
+      <last-pattern>bugsna</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -104,6 +106,7 @@
         <entry>appkey</entry>
         <entry>App</entry>
         <entry>toLow</entry>
+        <entry>bugsna</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
