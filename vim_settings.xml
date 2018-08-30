@@ -18,9 +18,9 @@
       <file name="/Dummy.txt" timestamp="1535015462747">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" timestamp="1535539640226">
-        <mark key="'" line="287" column="17" />
-        <mark key="[" line="39" column="12" />
+      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" timestamp="1535598907910">
+        <mark key="'" line="337" column="40" />
+        <mark key="[" line="63" column="12" />
         <mark key="]" line="220" column="23" />
         <mark key="^" line="220" column="23" />
         <mark key="." line="220" column="23" />
@@ -44,6 +44,7 @@
       <jump line="144" column="67" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/src/main/java/com/gamasys/gpms365/AIOApplication.java" />
       <jump line="220" column="23" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" />
       <jump line="287" column="17" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" />
+      <jump line="337" column="40" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -53,7 +54,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>bugsna</text>
+        <text>push</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y3AgLXIgIiR7U0VUVElOR19SRVNfRElSfS9hcmNoaXZlL3NldHRpbmdzX3Jlcy8uanNvbiIgIiR7U0VUVElOR19SRVNfRElSfS8uLi9zZXR0aW5nX3Jlcy8iCg==</text>
@@ -94,9 +95,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bugsna</last-search>
+      <last-search>push</last-search>
       <last-offset />
-      <last-pattern>bugsna</last-pattern>
+      <last-pattern>push</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -107,6 +108,7 @@
         <entry>App</entry>
         <entry>toLow</entry>
         <entry>bugsna</entry>
+        <entry>push</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
