@@ -12,18 +12,25 @@
       <file name="/Dummy.txt" timestamp="1536908308221">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/MyProject/Android/iosched/build.gradle" timestamp="1537274936181" />
       <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" timestamp="1535618633334">
         <mark key="'" line="337" column="40" />
         <mark key="^" line="220" column="23" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/wsciis/gradle.properties" timestamp="1537275189220">
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/gradle.properties" timestamp="1536908001463">
         <mark key="[" line="1" column="20" />
       </file>
       <file name="$USER_HOME$/MyProject/Android/WSCIIS/app/build.gradle" timestamp="1537267581028" />
-      <file name="$USER_HOME$/MyProject/Android/wsciis/gradle/wrapper/gradle-wrapper.properties" timestamp="1537274007138">
+      <file name="$USER_HOME$/MyProject/Android/wsciis/gradle/wrapper/gradle-wrapper.properties" timestamp="1537274961462">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="68" />
         <mark key="." line="5" column="68" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/AndroidManifest.xml" timestamp="1537274712983">
+        <mark key="[" line="2" column="23" />
       </file>
       <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/sh/update_setting_res_from_jenkins.sh" timestamp="1535007928276">
         <mark key="[" line="47" column="7" />
@@ -31,19 +38,34 @@
         <mark key="." line="47" column="46" />
         <mark key="^" line="47" column="46" />
       </file>
+      <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/androidTest/java/cga/gov/tw/wsciis/ExampleInstrumentedTest.kt" timestamp="1537274593975">
+        <mark key="[" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/wsciis/app/build.gradle" timestamp="1537274438955">
+        <mark key="[" line="9" column="33" />
+      </file>
       <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/src/main/java/com/gamasys/gpms365/AIOApplication.java" timestamp="1535015171084">
         <mark key="'" line="58" column="67" />
         <mark key="[" line="58" column="69" />
         <mark key="]" line="58" column="69" />
         <mark key="." line="58" column="69" />
       </file>
+      <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/test/java/cga/gov/tw/wsciis/ExampleUnitTest.kt" timestamp="1537274651354">
+        <mark key="[" line="0" column="8" />
+      </file>
       <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/sh/update_icon_from_jenkins.sh" timestamp="1535003878653">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/java/cga/gov/tw/wsciis/MainActivity.kt" timestamp="1537274356326">
+        <mark key="[" line="0" column="8" />
+      </file>
       <file name="$USER_HOME$/MyProject/Android/wsciis/.gitignore" timestamp="1537273986033">
         <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/iosched/gradle.properties" timestamp="1537275297439">
+        <mark key="[" line="12" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -57,10 +79,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>moduel</text>
