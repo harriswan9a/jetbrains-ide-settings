@@ -3,18 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/MyProject/Android/iosched/shared/build.gradle" timestamp="1537282570524">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="134" column="85" />
-        <mark key="^" line="134" column="85" />
-        <mark key="." line="134" column="85" />
+      <file name="$USER_HOME$/MyProject/Android/iosched/shared/build.gradle" timestamp="1537283144708">
+        <mark key="[" line="78" column="4" />
+        <mark key="]" line="78" column="4" />
+        <mark key="^" line="78" column="4" />
+        <mark key="." line="78" column="4" />
       </file>
       <file name="$USER_HOME$/MyProject/Android/iosched/build.gradle" timestamp="1537275929146" />
       <file name="$USER_HOME$/MyProject/Android/wsciis/shared/.gitignore" timestamp="1537282011274" />
       <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/gradle.properties" timestamp="1536908001463">
         <mark key="[" line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/MyProject/Android/iosched/mobile/build.gradle" timestamp="1537275910361" />
+      <file name="$USER_HOME$/MyProject/Android/iosched/mobile/build.gradle" timestamp="1537283636719">
+        <mark key="[" line="23" column="4" />
+      </file>
       <file name="$USER_HOME$/MyProject/Android/wsciis/gradle/wrapper/gradle-wrapper.properties" timestamp="1537274961462">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="68" />
@@ -33,10 +35,10 @@
       <file name="$USER_HOME$/MyProject/Android/wsciis/build.gradle" timestamp="1537275937262">
         <mark key="[" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/MyProject/Android/wsciis/shared/build.gradle" timestamp="1537282744305">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/MyProject/Android/wsciis/shared/build.gradle" timestamp="1537283129961">
+        <mark key="[" line="41" column="16" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/sh/update_icon_from_jenkins.sh" timestamp="1535003878653">
         <mark key="[" line="7" column="18" />
@@ -50,10 +52,11 @@
       <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/AndroidManifest.xml" timestamp="1537274712983">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/MyProject/Android/wsciis/app/build.gradle" timestamp="1537275893279">
-        <mark key="[" line="25" column="60" />
-        <mark key="]" line="25" column="60" />
-        <mark key="." line="25" column="60" />
+      <file name="$USER_HOME$/MyProject/Android/wsciis/app/build.gradle" timestamp="1537283593103">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+        <mark key="^" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/test/java/cga/gov/tw/wsciis/ExampleUnitTest.kt" timestamp="1537274651354">
         <mark key="[" line="0" column="8" />
@@ -78,8 +81,26 @@
       <jump line="337" column="40" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;,
+                &quot;MAP_FLOORPLAN_MAPPING&quot;,
+                &quot;{${map_floorplan_nw}, ${map_floorplan_ne}, ${map_floorplan_se}}&quot;
+
+        buildConfigField &quot;com.google.android.gms.maps.model.LatLng&quot;,
+                &quot;MAP_VIEWPORT_BOUND_NW&quot;,
+                &quot;new com.google.android.gms.maps.model.LatLng(${map_viewport_bound_nw})&quot;
+        buildConfigField &quot;com.google.android.gms.maps.model.LatLng&quot;,
+                &quot;MAP_VIEWPORT_BOUND_SE&quot;,
+                &quot;new com.google.android.gms.maps.model.LatLng(${map_viewport_bound_se})&quot;
+
+        buildConfigField &quot;float&quot;, &quot;MAP_CAMERA_FOCUS_ZOOM&quot;, &quot;${map_camera_focus_zoom}&quot;
+
+        resValue &quot;dimen&quot;, &quot;map_camera_bearing&quot;, &quot;${map_default_camera_bearing}&quot;
+        resValue &quot;dimen&quot;, &quot;map_camera_target_lat&quot;, &quot;${map_default_camera_target_lat}&quot;
+        resValue &quot;dimen&quot;, &quot;map_camera_target_lng&quot;, &quot;${map_default_camera_target_lng}&quot;
+        resValue &quot;dimen&quot;, &quot;map_camera_tilt&quot;, &quot;${map_default_camera_tilt}&quot;
+        resValue &quot;dimen&quot;, &quot;map_camera_zoom&quot;, &quot;${map_default_camera_zoom}&quot;
+        resValue &quot;dimen&quot;, &quot;map_viewport_min_zoom&quot;, &quot;${map_viewport_min_zoom}&quot;</text>
       </register>
       <register name="-" type="4">
         <text>4</text>
@@ -88,38 +109,52 @@
         <text>moduel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIEFyY2hpdGVjdHVyZSBDb21wb25lbnRzCiAgICBpbXBsZW1lbnRhdGlvbiAiYW5kcm9pZHgubGlmZWN5Y2xlOmxpZmVjeWNsZS1leHRlbnNpb25zOiRyb290UHJvamVjdC5saWZlY3ljbGVWZXJzaW9uIgogICAgaW1wbGVtZW50YXRpb24gImFuZHJvaWR4LmxpZmVjeWNsZTpsaWZlY3ljbGUtbGl2ZWRhdGE6JHJvb3RQcm9qZWN0LmxpZmVjeWNsZVZlcnNpb24iCiAgICBpbXBsZW1lbnRhdGlvbiAiYW5kcm9pZHgubGlmZWN5Y2xlOmxpZmVjeWNsZS12aWV3bW9kZWw6JHJvb3RQcm9qZWN0LmxpZmVjeWNsZVZlcnNpb24iCgogICAgLy8gTWFwcwogICAgYXBpKCJjb20uZ29vZ2xlLm1hcHMuYW5kcm9pZDphbmRyb2lkLW1hcHMtdXRpbHM6JHJvb3RQcm9qZWN0Lmdvb2dsZU1hcFV0aWxzVmVyc2lvbiIpIHsKICAgICAgICBleGNsdWRlIGdyb3VwOiAiY29tLmdvb2dsZS5hbmRyb2lkLmdtcyIKICAgIH0KICAgIGFwaSAiY29tLmdvb2dsZS5hbmRyb2lkLmdtczpwbGF5LXNlcnZpY2VzLW1hcHM6JHJvb3RQcm9qZWN0Lmdvb2dsZVBsYXlTZXJ2aWNlc01hcHNWZXJzaW9uIgoKICAgIC8vIFV0aWxzCiAgICBhcGkgImNvbS5qYWtld2hhcnRvbi50aW1iZXI6dGltYmVyOiRyb290UHJvamVjdC50aW1iZXJWZXJzaW9uIgogICAgaW1wbGVtZW50YXRpb24gImNvbS5nb29nbGUuY29kZS5nc29uOmdzb246JHJvb3RQcm9qZWN0Lmdzb25WZXJzaW9uIgogICAgaW1wbGVtZW50YXRpb24gImFuZHJvaWR4LmNvcmU6Y29yZS1rdHg6JHJvb3RQcm9qZWN0Lmt0eFZlcnNpb24iCgogICAgLy8gT2tIdHRwCiAgICBpbXBsZW1lbnRhdGlvbiAiY29tLnNxdWFyZXVwLm9raHR0cDM6b2todHRwOiRyb290UHJvamVjdC5va2h0dHBWZXJzaW9uIgogICAgaW1wbGVtZW50YXRpb24gImNvbS5zcXVhcmV1cC5va2h0dHAzOmxvZ2dpbmctaW50ZXJjZXB0b3I6JHJvb3RQcm9qZWN0Lm9raHR0cFZlcnNpb24iCgogICAgLy8gS290bGluCiAgICBpbXBsZW1lbnRhdGlvbiAib3JnLmpldGJyYWlucy5rb3RsaW46a290bGluLXN0ZGxpYi1qZGs3OiRyb290UHJvamVjdC5rb3RsaW5WZXJzaW9uIgoKICAgIC8vIERhZ2dlcgogICAgaW1wbGVtZW50YXRpb24gImNvbS5nb29nbGUuZGFnZ2VyOmRhZ2dlci1hbmRyb2lkOiRyb290UHJvamVjdC5kYWdnZXIiCiAgICBpbXBsZW1lbnRhdGlvbiAiY29tLmdvb2dsZS5kYWdnZXI6ZGFnZ2VyLWFuZHJvaWQtc3VwcG9ydDokcm9vdFByb2plY3QuZGFnZ2VyIgogICAga2FwdCAiY29tLmdvb2dsZS5kYWdnZXI6ZGFnZ2VyLWNvbXBpbGVyOiRyb290UHJvamVjdC5kYWdnZXIiCiAgICBrYXB0ICJjb20uZ29vZ2xlLmRhZ2dlcjpkYWdnZXItYW5kcm9pZC1wcm9jZXNzb3I6JHJvb3RQcm9qZWN0LmRhZ2dlciIKCiAgICAvLyBGaXJlYmFzZQogICAgYXBpICJjb20uZ29vZ2xlLmZpcmViYXNlOmZpcmViYXNlLWF1dGg6JHJvb3RQcm9qZWN0LmZpcmViYXNlQXV0aFZlcnNpb24iCiAgICBhcGkgImNvbS5nb29nbGUuZmlyZWJhc2U6ZmlyZWJhc2UtY29uZmlnOiRyb290UHJvamVjdC5maXJlYmFzZUNvbmZpZ1ZlcnNpb24iCiAgICBhcGkgImNvbS5nb29nbGUuZmlyZWJhc2U6ZmlyZWJhc2UtY29yZTokcm9vdFByb2plY3QuZmlyZWJhc2VDb3JlVmVyc2lvbiIKICAgIGFwaSAiY29tLmdvb2dsZS5maXJlYmFzZTpmaXJlYmFzZS1maXJlc3RvcmU6JHJvb3RQcm9qZWN0LmZpcmViYXNlRmlyZXN0b3JlVmVyc2lvbiIKICAgIGFwaSAiY29tLmdvb2dsZS5maXJlYmFzZTpmaXJlYmFzZS1tZXNzYWdpbmc6JHJvb3RQcm9qZWN0LmZpcmViYXNlTWVzc2FnaW5nVmVyc2lvbiIKCiAgICAvLyBUaHJlZVRlbkJQIGZvciB0aGUgc2hhcmVkIG1vZHVsZSBvbmx5LiBEYXRlIGFuZCB0aW1lIEFQSSBmb3IgSmF2YS4KICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAib3JnLnRocmVldGVuOnRocmVldGVuYnA6JHJvb3RQcm9qZWN0LnRocmVldGVuYnBWZXJzaW9uIgogICAgY29tcGlsZU9ubHkgIm9yZy50aHJlZXRlbjp0aHJlZXRlbmJwOiRyb290UHJvamVjdC50aHJlZXRlbmJwVmVyc2lvbjpuby10emRiIgoKICAgIC8vIFVuaXQgdGVzdHMKICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAianVuaXQ6anVuaXQ6JHJvb3RQcm9qZWN0Lmp1bml0VmVyc2lvbiIKICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAib3JnLmhhbWNyZXN0OmhhbWNyZXN0LWxpYnJhcnk6JHJvb3RQcm9qZWN0LmhhbWNyZXN0VmVyc2lvbiIKICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAib3JnLm1vY2tpdG86bW9ja2l0by1jb3JlOiRyb290UHJvamVjdC5tb2NraXRvVmVyc2lvbiIKICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAiY29tLm5oYWFybWFuOm1vY2tpdG8ta290bGluOiRyb290UHJvamVjdC5tb2NraXRvS290bGluVmVyc2lvbiIKCiAgICAvLyB1bml0IHRlc3RzIGxpdmVkYXRhCiAgICB0ZXN0SW1wbGVtZW50YXRpb24gImFuZHJvaWR4LmFyY2guY29yZTpjb3JlLXRlc3Rpbmc6JHJvb3RQcm9qZWN0LmxpZmVjeWNsZVZlcnNpb24iCg==</text>
+        <text encoding="base64">ICAgIC8vIGRlYnVnIGFuZCByZWxlYXNlIHZhcmlhbnRzIHNoYXJlIHRoZSBzYW1lIHNvdXJjZSBkaXIKICAgIHNvdXJjZVNldHMgewogICAgICAgIGRlYnVnLmphdmEuc3JjRGlyICdzcmMvZGVidWdSZWxlYXNlL2phdmEnCiAgICAgICAgcmVsZWFzZS5qYXZhLnNyY0RpciAnc3JjL2RlYnVnUmVsZWFzZS9qYXZhJwogICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>&quot;,
+                &quot;MAP_FLOORPLAN_MAPPING&quot;,
+                &quot;{${map_floorplan_nw}, ${map_floorplan_ne}, ${map_floorplan_se}}&quot;
+
+        buildConfigField &quot;com.google.android.gms.maps.model.LatLng&quot;,
+                &quot;MAP_VIEWPORT_BOUND_NW&quot;,
+                &quot;new com.google.android.gms.maps.model.LatLng(${map_viewport_bound_nw})&quot;
+        buildConfigField &quot;com.google.android.gms.maps.model.LatLng&quot;,
+                &quot;MAP_VIEWPORT_BOUND_SE&quot;,
+                &quot;new com.google.android.gms.maps.model.LatLng(${map_viewport_bound_se})&quot;
+
+        buildConfigField &quot;float&quot;, &quot;MAP_CAMERA_FOCUS_ZOOM&quot;, &quot;${map_camera_focus_zoom}&quot;
+
+        resValue &quot;dimen&quot;, &quot;map_camera_bearing&quot;, &quot;${map_default_camera_bearing}&quot;
+        resValue &quot;dimen&quot;, &quot;map_camera_target_lat&quot;, &quot;${map_default_camera_target_lat}&quot;
+        resValue &quot;dimen&quot;, &quot;map_camera_target_lng&quot;, &quot;${map_default_camera_target_lng}&quot;
+        resValue &quot;dimen&quot;, &quot;map_camera_tilt&quot;, &quot;${map_default_camera_tilt}&quot;
+        resValue &quot;dimen&quot;, &quot;map_camera_zoom&quot;, &quot;${map_default_camera_zoom}&quot;
+        resValue &quot;dimen&quot;, &quot;map_viewport_min_zoom&quot;, &quot;${map_viewport_min_zoom}&quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyOC4wLjAtcmMwMicK</text>
+      <register name="2" type="4">
+        <text encoding="base64">Y29tcGlsZVNka1ZlcnNpb24gMjgKICAgIGRlZmF1bHRDb25maWcgewogICAgICAgIGFwcGxpY2F0aW9uSWQgInR3Lmdvdi5jZ2Eud3NjaWlzIgogICAgICAgIG1pblNka1ZlcnNpb24gMjEKICAgICAgICB0YXJnZXRTZGtWZXJzaW9uIDI4CiAgICAgICAgdmVyc2lvbkNvZGUgMQogICAgICAgIHZlcnNpb25OYW1lICIxLjAiCiAgICAgICAgdGVzdEluc3RydW1lbnRhdGlvblJ1bm5lciAiYW5kcm9pZC5zdXBwb3J0LnRlc3QucnVubmVyLkFuZHJvaWRKVW5pdFJ1bm5lciIKICAgIH0KICAgIGJ1aWxkVHlwZXMgewogICAgICAgIHJlbGVhc2UgewogICAgICAgICAgICBtaW5pZnlFbmFibGVkIGZhbHNlCiAgICAgICAgICAgIHByb2d1YXJkRmlsZXMgZ2V0RGVmYXVsdFByb2d1YXJkRmlsZSgncHJvZ3VhcmQtYW5kcm9pZC50eHQnKSwgJ3Byb2d1YXJkLXJ1bGVzLnBybycKICAgICAgICB9CiAgICB9CiAgICBzb3VyY2VTZXRzIHsgbWFpbiB7IGphdmEuc3JjRGlycyA9IFsnc3JjL21haW4vamF2YScsICdzcmMvc3RhZ2luL2phdmEnXSB9IA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjMuMC4yJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdDpydW5uZXI6MS4wLjInCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyOC4wLjAtcmMwMicK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjMuMC4yJwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdDpydW5uZXI6MS4wLjInCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnanVuaXQ6anVuaXQ6NC4xMicK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAvLyBkZWJ1ZyBhbmQgcmVsZWFzZSB2YXJpYW50cyBzaGFyZSB0aGUgc2FtZSBzb3VyY2UgZGlyCiAgICBzb3VyY2VTZXRzIHsKICAgICAgICBkZWJ1Zy5qYXZhLnNyY0RpciAnc3JjL2RlYnVnUmVsZWFzZS9qYXZhJwogICAgICAgIHJlbGVhc2UuamF2YS5zcmNEaXIgJ3NyYy9kZWJ1Z1JlbGVhc2UvamF2YScKICAgIH0=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgoKICAgIGRlZmF1bHRDb25maWcgewogICAgICAgIG1pblNka1ZlcnNpb24gMjEKICAgICAgICB0YXJnZXRTZGtWZXJzaW9uIDI4CiAgICAgICAgdmVyc2lvbkNvZGUgMQogICAgICAgIHZlcnNpb25OYW1lICIxLjAiCgogICAgICAgIHRlc3RJbnN0cnVtZW50YXRpb25SdW5uZXIgImFuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXRSdW5uZXIi</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBpbXBsZW1lbnRhdGlvbiJvcmcuamV0YnJhaW5zLmtvdGxpbjprb3RsaW4tc3RkbGliLWpkazc6JGtvdGxpbl92ZXJzaW9uIgogICAgaW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI4LjAuMC1yYzAyJwogICAgdGVzdEltcGxlbWVudGF0aW9uICdqdW5pdDpqdW5pdDo0LjEyJwogICAgYW5kcm9pZFRlc3RJbXBsZW1lbnRhdGlvbiAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0OnJ1bm5lcjoxLjAuMicKICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjMuMC4yJw==</text>
-      </register>
       <register name="9" type="4">
-        <text>\&quot;推播網站\n&quot; +
-            &quot;https://yunba.io/\n&quot; +
-            &quot;API\n&quot; +
-            &quot;应用包名:wnas168.com\n&quot; +
-            &quot;AppKey:5b73eb5b3fe650463874a037&quot;</text>
+        <text encoding="base64">CgoKICAgIGRlZmF1bHRDb25maWcgewogICAgICAgIG1pblNka1ZlcnNpb24gMjEKICAgICAgICB0YXJnZXRTZGtWZXJzaW9uIDI4CiAgICAgICAgdmVyc2lvbkNvZGUgMQogICAgICAgIHZlcnNpb25OYW1lICIxLjAiCgogICAgICAgIHRlc3RJbnN0cnVtZW50YXRpb25SdW5uZXIgImFuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXRSdW5uZXIi</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
