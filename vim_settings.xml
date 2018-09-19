@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/MyProject/Android/iosched/shared/build.gradle" timestamp="1537283144708">
-        <mark key="[" line="78" column="4" />
-        <mark key="]" line="78" column="4" />
-        <mark key="^" line="78" column="4" />
-        <mark key="." line="78" column="4" />
-      </file>
       <file name="$USER_HOME$/MyProject/Android/iosched/build.gradle" timestamp="1537288598158">
         <mark key="[" line="100" column="21" />
       </file>
@@ -41,9 +35,11 @@
       <file name="$USER_HOME$/MyProject/Android/wsciis/shared/src/test/java/tw/gov/cga/shared/ExampleUnitTest.java" timestamp="1537285673968">
         <mark key="[" line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/app/src/main/java/com/example/android/persistence/BasicApp.java" timestamp="1537314838970" />
       <file name="$USER_HOME$/MyProject/Android/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/LauncherActivity.kt" timestamp="1537287814077">
         <mark key="[" line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/app/src/main/java/com/example/android/persistence/ui/MainActivity.java" timestamp="1537319520316" />
       <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/androidTest/java/cga/gov/tw/wsciis/ExampleInstrumentedTest.kt" timestamp="1537274593975">
         <mark key="[" line="0" column="17" />
       </file>
@@ -76,18 +72,14 @@
         <mark key="]" line="65" column="18" />
         <mark key="." line="65" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled6/main.py" timestamp="1534605052803">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="11" />
-        <mark key="^" line="6" column="11" />
-        <mark key="." line="6" column="11" />
-      </file>
       <file name="/Dummy.txt" timestamp="1537284879779">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/MyProject/Android/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/LaunchViewModel.kt" timestamp="1537285311221">
         <mark key="[" line="27" column="2" />
       </file>
+      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/build.gradle" timestamp="1537314595603" />
+      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/app/src/main/java/com/example/android/persistence/AppExecutors.java" timestamp="1537314868409" />
       <file name="$USER_HOME$/MyProject/Android/wsciis/shared/src/main/AndroidManifest.xml" timestamp="1537285464218">
         <mark key="[" line="1" column="24" />
       </file>
@@ -99,26 +91,11 @@
         <mark key="]" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/MyProject/Android/wsciis/shared/src/main/java/tw/gov/cga/wsciis/shared/di/ViewModelFactory.kt" timestamp="1537286644309">
-        <mark key="[" line="26" column="6" />
-        <mark key="]" line="26" column="6" />
-        <mark key="^" line="26" column="6" />
-        <mark key="." line="26" column="6" />
-      </file>
-      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/sh/update_setting_res_from_jenkins.sh" timestamp="1535007928276">
-        <mark key="[" line="47" column="7" />
-        <mark key="]" line="47" column="46" />
-        <mark key="." line="47" column="46" />
-        <mark key="^" line="47" column="46" />
-      </file>
       <file name="$USER_HOME$/MyProject/Android/wsciis/shared/src/main/java/tw/gov/cga/wsciis/shared/di/Extensions.kt" timestamp="1537286036357">
         <mark key="[" line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/MyProject/Android/wsciis/app/build.gradle" timestamp="1537283593103">
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="14" column="33" />
-        <mark key="." line="14" column="33" />
-        <mark key="^" line="7" column="3" />
+      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/versions.gradle" timestamp="1537314625209">
+        <mark key="'" line="28" column="15" />
       </file>
       <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/java/tw/gov/cga/wsciis/ui/LaunchViewModel.kt" timestamp="1537287414652">
         <mark key="[" line="15" column="61" />
@@ -155,6 +132,7 @@
       <jump line="220" column="23" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" />
       <jump line="287" column="17" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" />
       <jump line="337" column="40" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" />
+      <jump line="28" column="15" filename="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/versions.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -164,7 +142,7 @@
         <text>LauncherActivit</text>
       </register>
       <register name="/" type="4">
-        <text>moduel</text>
+        <text>android</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ci8qKgogKiBNb2R1bGUgd2hlcmUgY2xhc3NlcyBuZWVkZWQgZm9yIGFwcCBsYXVuY2ggYXJlIGRlZmluZWQuCiAqLwpATW9kdWxlCmludGVybmFsIGFic3RyYWN0IGNsYXNzIExhdW5jaE1vZHVsZSB7CgogICAgLyoqCiAgICAgKiBUaGUgVmlld01vZGVscyBhcmUgY3JlYXRlZCBieSBEYWdnZXIgaW4gYSBtYXAuIFZpYSB0aGUgQFZpZXdNb2RlbEtleSwgd2UgZGVmaW5lIHRoYXQgd2UKICAgICAqIHdhbnQgdG8gZ2V0IGEgW0xhdW5jaFZpZXdNb2RlbF0gY2xhc3MuCiAgICAgKi8KICAgIEBCaW5kcwogICAgQEludG9NYXAKICAgIEBWaWV3TW9kZWxLZXkoTGF1bmNoVmlld01vZGVsOjpjbGFzcykKICAgIGludGVybmFsIGFic3RyYWN0IGZ1biBiaW5kTGF1bmNoVmlld01vZGVsKHZpZXdNb2RlbDogTGF1bmNoVmlld01vZGVsKTogVmlld01vZGVsCn0K</text>
@@ -201,9 +179,9 @@
       </register>
     </registers>
     <search>
-      <last-search>moduel</last-search>
+      <last-search>android</last-search>
       <last-offset />
-      <last-pattern>moduel</last-pattern>
+      <last-pattern>android</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -216,6 +194,7 @@
         <entry>bugsna</entry>
         <entry>push</entry>
         <entry>moduel</entry>
+        <entry>android</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
