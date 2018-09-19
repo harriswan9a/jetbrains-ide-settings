@@ -3,45 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/MyProject/Android/iosched/build.gradle" timestamp="1537288598158">
-        <mark key="[" line="100" column="21" />
-      </file>
-      <file name="$USER_HOME$/MyProject/Android/iosched/mobile/src/main/AndroidManifest.xml" timestamp="1537313802221">
-        <mark key="[" line="82" column="51" />
-      </file>
       <file name="$USER_HOME$/MyProject/Android/wsciis/shared/src/debugRelease/java/tw/gov/cga/wsciis/shared/di/ServiceBindingModule.kt" timestamp="1537313995497">
         <mark key="[" line="35" column="78" />
       </file>
       <file name="$USER_HOME$/MyProject/Android/wsciis/shared/src/debugRelease/java/tw/gov/cga/wsciis/shared/di/SharedModule.kt" timestamp="1537314031799">
         <mark key="[" line="125" column="4" />
       </file>
-      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/gradle.properties" timestamp="1536908001463">
-        <mark key="[" line="1" column="20" />
-      </file>
-      <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/java/tw/gov/cga/wsciis/ui/LaunchActivity.kt" timestamp="1537285018107">
-        <mark key="[" line="2" column="16" />
-      </file>
-      <file name="$USER_HOME$/MyProject/Android/iosched/mobile/build.gradle" timestamp="1537283636719">
-        <mark key="[" line="23" column="4" />
-      </file>
-      <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/java/tw/gov/cga/wsciis/ui/LaunchModule.kt" timestamp="1537285293795">
-        <mark key="[" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/MyProject/Android/wsciis/gradle/wrapper/gradle-wrapper.properties" timestamp="1537288246495">
-        <mark key="[" line="5" column="68" />
-        <mark key="]" line="5" column="68" />
-        <mark key="." line="5" column="68" />
-      </file>
       <file name="$USER_HOME$/MyProject/Android/wsciis/shared/src/test/java/tw/gov/cga/shared/ExampleUnitTest.java" timestamp="1537285673968">
         <mark key="[" line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/app/src/main/java/com/example/android/persistence/BasicApp.java" timestamp="1537314838970" />
-      <file name="$USER_HOME$/MyProject/Android/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/LauncherActivity.kt" timestamp="1537287814077">
-        <mark key="[" line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/app/src/main/java/com/example/android/persistence/ui/MainActivity.java" timestamp="1537319520316" />
-      <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/androidTest/java/cga/gov/tw/wsciis/ExampleInstrumentedTest.kt" timestamp="1537274593975">
-        <mark key="[" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/java/tw/gov/cga/wsciis/di/ActivityBindingModule.kt" timestamp="1537313622544">
         <mark key="[" line="39" column="18" />
@@ -50,12 +19,6 @@
       </file>
       <file name="$USER_HOME$/MyProject/Android/wsciis/shared/src/main/java/tw/gov/cga/shared/di/ViewModelModule.kt" timestamp="1537285407123">
         <mark key="[" line="30" column="63" />
-      </file>
-      <file name="$USER_HOME$/MyProject/Android/iosched/mobile/src/main/java/com/google/samples/apps/iosched/MainApplication.kt" timestamp="1537276369280">
-        <mark key="[" line="32" column="57" />
-      </file>
-      <file name="$USER_HOME$/MyProject/Android/wsciis/shared/src/main/java/tw/gov/cga/shared/di/ViewModelKey.kt" timestamp="1537285493713">
-        <mark key="[" line="16" column="19" />
       </file>
       <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/java/tw/gov/cga/wsciis/MainApplication.kt" timestamp="1537288878365">
         <mark key="[" line="12" column="0" />
@@ -67,40 +30,40 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/MyProject/Android/wsciis/build.gradle" timestamp="1537288582162">
-        <mark key="[" line="65" column="18" />
-        <mark key="]" line="65" column="18" />
-        <mark key="." line="65" column="18" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1537284879779">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/MyProject/Android/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/LaunchViewModel.kt" timestamp="1537285311221">
-        <mark key="[" line="27" column="2" />
-      </file>
-      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/build.gradle" timestamp="1537314595603" />
-      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/app/src/main/java/com/example/android/persistence/AppExecutors.java" timestamp="1537314868409" />
       <file name="$USER_HOME$/MyProject/Android/wsciis/shared/src/main/AndroidManifest.xml" timestamp="1537285464218">
         <mark key="[" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/java/tw/gov/cga/wsciis/util/CrashlyticsTree.kt" timestamp="1537284731263">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/GoogleDrive/MyProject/WSCIIS/WSCIIS/gradle/wrapper/gradle-wrapper.properties" timestamp="1537321074623">
+        <mark key="[" line="5" column="68" />
+        <mark key="]" line="5" column="68" />
+        <mark key="." line="5" column="68" />
       </file>
-      <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/AndroidManifest.xml" timestamp="1537314141180">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="30" />
-        <mark key="." line="12" column="30" />
+      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/app/build.gradle" timestamp="1537321261110">
+        <mark key="[" line="25" column="40" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/wsciis/shared/src/main/java/tw/gov/cga/wsciis/shared/di/ViewModelFactory.kt" timestamp="1537286644309">
+        <mark key="[" line="26" column="6" />
+        <mark key="]" line="26" column="6" />
+        <mark key="^" line="26" column="6" />
+        <mark key="." line="26" column="6" />
+      </file>
+      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/sh/update_setting_res_from_jenkins.sh" timestamp="1535007928276">
+        <mark key="[" line="47" column="7" />
+        <mark key="]" line="47" column="46" />
+        <mark key="." line="47" column="46" />
+        <mark key="^" line="47" column="46" />
       </file>
       <file name="$USER_HOME$/MyProject/Android/wsciis/shared/src/main/java/tw/gov/cga/wsciis/shared/di/Extensions.kt" timestamp="1537286036357">
         <mark key="[" line="16" column="29" />
       </file>
+      <file name="$USER_HOME$/MyProject/Android/wsciis/app/build.gradle" timestamp="1537283593103">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+        <mark key="^" line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/versions.gradle" timestamp="1537314625209">
         <mark key="'" line="28" column="15" />
-      </file>
-      <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/java/tw/gov/cga/wsciis/ui/LaunchViewModel.kt" timestamp="1537287414652">
-        <mark key="[" line="15" column="61" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/test/java/cga/gov/tw/wsciis/ExampleUnitTest.kt" timestamp="1537274651354">
         <mark key="[" line="0" column="8" />
@@ -111,16 +74,106 @@
       <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/res/values/strings.xml" timestamp="1537285145176">
         <mark key="[" line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/java/tw/gov/cga/wsciis/ui/LauncherActivity.kt" timestamp="1537288802126">
-        <mark key="^" line="20" column="46" />
-      </file>
       <file name="$USER_HOME$/MyProject/Android/wsciis/.gitignore" timestamp="1537273986033">
         <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/iosched/shared/build.gradle" timestamp="1537283144708">
+        <mark key="[" line="78" column="4" />
+        <mark key="]" line="78" column="4" />
+        <mark key="^" line="78" column="4" />
+        <mark key="." line="78" column="4" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/iosched/build.gradle" timestamp="1537288598158">
+        <mark key="[" line="100" column="21" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/iosched/mobile/src/main/AndroidManifest.xml" timestamp="1537313802221">
+        <mark key="[" line="82" column="51" />
+      </file>
+      <file name="$USER_HOME$/GoogleDrive/MyProject/WSCIIS/WSCIIS/app/build.gradle" timestamp="1537321264984">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/gradle.properties" timestamp="1536908001463">
+        <mark key="[" line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/java/tw/gov/cga/wsciis/ui/LaunchActivity.kt" timestamp="1537285018107">
+        <mark key="[" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/iosched/mobile/build.gradle" timestamp="1537283636719">
+        <mark key="[" line="23" column="4" />
+      </file>
+      <file name="$USER_HOME$/GoogleDrive/MyProject/WSCIIS/WSCIIS/versions.gradle" timestamp="1537321278195">
+        <mark key="[" line="139" column="29" />
+      </file>
+      <file name="$USER_HOME$/GoogleDrive/MyProject/WSCIIS/WSCIIS/build.gradle" timestamp="1537321034276" />
+      <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/java/tw/gov/cga/wsciis/ui/LaunchModule.kt" timestamp="1537285293795">
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/wsciis/gradle/wrapper/gradle-wrapper.properties" timestamp="1537288246495">
+        <mark key="[" line="5" column="68" />
+        <mark key="]" line="5" column="68" />
+        <mark key="." line="5" column="68" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/app/src/main/java/com/example/android/persistence/BasicApp.java" timestamp="1537320221901" />
+      <file name="$USER_HOME$/MyProject/Android/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/LauncherActivity.kt" timestamp="1537287814077">
+        <mark key="[" line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/app/src/main/java/com/example/android/persistence/ui/MainActivity.java" timestamp="1537319520316" />
+      <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/androidTest/java/cga/gov/tw/wsciis/ExampleInstrumentedTest.kt" timestamp="1537274593975">
+        <mark key="[" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/iosched/mobile/src/main/java/com/google/samples/apps/iosched/MainApplication.kt" timestamp="1537276369280">
+        <mark key="[" line="32" column="57" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/wsciis/shared/src/main/java/tw/gov/cga/shared/di/ViewModelKey.kt" timestamp="1537285493713">
+        <mark key="[" line="16" column="19" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/wsciis/build.gradle" timestamp="1537288582162">
+        <mark key="[" line="65" column="18" />
+        <mark key="]" line="65" column="18" />
+        <mark key="." line="65" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled6/main.py" timestamp="1534605052803">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="11" />
+        <mark key="^" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1537284879779">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/iosched/mobile/src/main/java/com/google/samples/apps/iosched/ui/LaunchViewModel.kt" timestamp="1537285311221">
+        <mark key="[" line="27" column="2" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/build.gradle" timestamp="1537321028632" />
+      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/app/src/main/java/com/example/android/persistence/AppExecutors.java" timestamp="1537320341053" />
+      <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/java/tw/gov/cga/wsciis/util/CrashlyticsTree.kt" timestamp="1537284731263">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/GoogleDrive/MyProject/WSCIIS/WSCIIS/app/src/main/java/com/dettech/wsciis_app/wsciis/WSCIISApplication.java" timestamp="1537320902531">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/AndroidManifest.xml" timestamp="1537314141180">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="12" column="30" />
+        <mark key="." line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/java/tw/gov/cga/wsciis/ui/LaunchViewModel.kt" timestamp="1537287414652">
+        <mark key="[" line="15" column="61" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/java/tw/gov/cga/wsciis/ui/LauncherActivity.kt" timestamp="1537288802126">
+        <mark key="^" line="20" column="46" />
       </file>
       <file name="$USER_HOME$/MyProject/Android/iosched/gradle.properties" timestamp="1537276219344">
         <mark key="[" line="12" column="35" />
       </file>
-      <file name="/fragment.java" timestamp="1537313534344">
+      <file name="/fragment.java" timestamp="1537320966908">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -133,13 +186,14 @@
       <jump line="287" column="17" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" />
       <jump line="337" column="40" filename="$USER_HOME$/MyProject/GAMA/ocms/app-android/WebShell/build.gradle" />
       <jump line="28" column="15" filename="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/versions.gradle" />
+      <jump line="6" column="4" filename="$USER_HOME$/GoogleDrive/MyProject/WSCIIS/WSCIIS/app/src/main/java/com/dettech/wsciis_app/wsciis/WSCIISApplication.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>LauncherActivit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjMuMC4yJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>LauncherActivit</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>android</text>
@@ -147,32 +201,32 @@
       <register name="0" type="2">
         <text encoding="base64">Ci8qKgogKiBNb2R1bGUgd2hlcmUgY2xhc3NlcyBuZWVkZWQgZm9yIGFwcCBsYXVuY2ggYXJlIGRlZmluZWQuCiAqLwpATW9kdWxlCmludGVybmFsIGFic3RyYWN0IGNsYXNzIExhdW5jaE1vZHVsZSB7CgogICAgLyoqCiAgICAgKiBUaGUgVmlld01vZGVscyBhcmUgY3JlYXRlZCBieSBEYWdnZXIgaW4gYSBtYXAuIFZpYSB0aGUgQFZpZXdNb2RlbEtleSwgd2UgZGVmaW5lIHRoYXQgd2UKICAgICAqIHdhbnQgdG8gZ2V0IGEgW0xhdW5jaFZpZXdNb2RlbF0gY2xhc3MuCiAgICAgKi8KICAgIEBCaW5kcwogICAgQEludG9NYXAKICAgIEBWaWV3TW9kZWxLZXkoTGF1bmNoVmlld01vZGVsOjpjbGFzcykKICAgIGludGVybmFsIGFic3RyYWN0IGZ1biBiaW5kTGF1bmNoVmlld01vZGVsKHZpZXdNb2RlbDogTGF1bmNoVmlld01vZGVsKTogVmlld01vZGVsCn0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgogICAgICAgIDwhLS0gVGhpcyBhY3Rpdml0eSBhbGlhcyBsZXRzIHVzIGNoYW5nZSB0aGUgbWFpbiBlbnRyeSBwb2ludCB3aXRob3V0IGJyZWFraW5nIGxhdW5jaGVyCiAgICAgICAgICAgICBzaG9ydGN1dHMuIERPIE5PVCBjaGFuZ2UgaXRzIGFuZHJvaWQ6bmFtZSBhdHRyaWJ1dGUuIC0tPgogICAgICAgIDxhY3Rpdml0eS1hbGlhcwogICAgICAgICAgICBhbmRyb2lkOm5hbWU9Ii5MYXVuY2hlciIKICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iQHN0cmluZy9hcHBfbmFtZSIKICAgICAgICAgICAgYW5kcm9pZDp0YXJnZXRBY3Rpdml0eT0iLnVpLkxhdW5jaGVyQWN0aXZpdHkiPgoKICAgICAgICA8L2FjdGl2aXR5LWFsaWFzPg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjMuMC4yJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuc2FtcGxlcy5hcHBzLmlvc2NoZWQudWkuc3BlYWtlci5TcGVha2VyTW9kdWxlCg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdDpydW5uZXI6MS4wLjInCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuc2FtcGxlcy5hcHBzLmlvc2NoZWQudWkuc3BlYWtlci5TcGVha2VyQWN0aXZpdHkK</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnanVuaXQ6anVuaXQ6NC4xMicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuc2FtcGxlcy5hcHBzLmlvc2NoZWQudWkuc2lnbmluLlNpZ25JbkRpYWxvZ01vZHVsZQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyOC4wLjAtcmMwMicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuc2FtcGxlcy5hcHBzLmlvc2NoZWQudWkuc2Vzc2lvbmRldGFpbC5TZXNzaW9uRGV0YWlsTW9kdWxlCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1zdGRsaWItamRrNzoka290bGluX3ZlcnNpb24iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuc2FtcGxlcy5hcHBzLmlvc2NoZWQudWkuc2Vzc2lvbmRldGFpbC5TZXNzaW9uRGV0YWlsQWN0aXZpdHkK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVUcmVlKGRpcjogJ2xpYnMnLCBpbmNsdWRlOiBbJyouamFyJ10pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuc2FtcGxlcy5hcHBzLmlvc2NoZWQudWkuc2Vzc2lvbmNvbW1vbi5FdmVudEFjdGlvbnNWaWV3TW9kZWxEZWxlZ2F0ZU1vZHVsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuc2FtcGxlcy5hcHBzLmlvc2NoZWQudWkuc2NoZWR1bGUuU2NoZWR1bGVNb2R1bGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuc2FtcGxlcy5hcHBzLmlvc2NoZWQudWkucmVzZXJ2YXRpb24uUmVzZXJ2YXRpb25Nb2R1bGUK</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluLWFuZHJvaWQtZXh0ZW5zaW9ucycK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -209,6 +263,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
