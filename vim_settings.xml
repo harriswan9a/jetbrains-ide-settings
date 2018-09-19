@@ -22,6 +22,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/app/src/main/java/com/example/android/persistence/ui/CommentAdapter.java" timestamp="1537332710159" />
       <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/app/src/main/java/com/example/android/persistence/viewmodel/ProductViewModel.java" timestamp="1537325454862">
         <mark key="[" line="93" column="4" />
         <mark key="]" line="39" column="32" />
@@ -64,7 +65,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/app/src/main/java/com/example/android/persistence/ui/ProductFragment.java" timestamp="1537324122228" />
+      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/app/src/main/java/com/example/android/persistence/ui/ProductFragment.java" timestamp="1537332697739" />
       <file name="$USER_HOME$/MyProject/Android/wsciis/shared/src/main/AndroidManifest.xml" timestamp="1537285464218">
         <mark key="[" line="1" column="24" />
       </file>
@@ -79,12 +80,12 @@
         <mark key="]" line="5" column="68" />
         <mark key="." line="5" column="68" />
       </file>
-      <file name="$USER_HOME$/GoogleDrive/MyProject/WSCIIS/WSCIIS/app/src/main/java/com/dettech/wsciis_app/wsciis/ui/LoginActivity.java" timestamp="1537329526451">
-        <mark key="'" line="23" column="28" />
-        <mark key="[" line="23" column="29" />
-        <mark key="]" line="23" column="34" />
-        <mark key="." line="23" column="34" />
-        <mark key="^" line="19" column="28" />
+      <file name="$USER_HOME$/GoogleDrive/MyProject/WSCIIS/WSCIIS/app/src/main/java/com/dettech/wsciis_app/wsciis/ui/LoginActivity.java" timestamp="1537332816585">
+        <mark key="'" line="25" column="28" />
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="14" />
       </file>
       <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/app/build.gradle" timestamp="1537321498306">
         <mark key="[" line="25" column="40" />
