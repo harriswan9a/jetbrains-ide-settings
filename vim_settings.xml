@@ -68,6 +68,9 @@
       <file name="$USER_HOME$/MyProject/Android/wsciis/shared/src/main/AndroidManifest.xml" timestamp="1537285464218">
         <mark key="[" line="1" column="24" />
       </file>
+      <file name="$USER_HOME$/GoogleDrive/MyProject/WSCIIS/WSCIIS/app/src/main/java/com/dettech/wsciis_app/wsciis/ui/LoginClickCallback.java" timestamp="1537329735558">
+        <mark key="[" line="2" column="11" />
+      </file>
       <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/app/src/main/java/com/example/android/persistence/ui/BindingAdapters.java" timestamp="1537328710548" />
       <file name="$USER_HOME$/GoogleDrive/MyProject/WSCIIS/WSCIIS/gradle/wrapper/gradle-wrapper.properties" timestamp="1537327023429">
         <mark key="[" line="5" column="68" />
@@ -109,6 +112,7 @@
       <file name="$USER_HOME$/MyProject/Android/iosched/mobile/src/main/AndroidManifest.xml" timestamp="1537313802221">
         <mark key="[" line="82" column="51" />
       </file>
+      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/app/src/main/java/com/example/android/persistence/ui/CommentClickCallback.java" timestamp="1537329803226" />
       <file name="$USER_HOME$/GoogleDrive/MyProject/WSCIIS/WSCIIS/app/build.gradle" timestamp="1537321264984">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -188,6 +192,7 @@
       <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/java/tw/gov/cga/wsciis/util/CrashlyticsTree.kt" timestamp="1537284731263">
         <mark key="[" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/MyProject/Android/ArchitectureComponentsBasic1/app/src/main/res/layout/comment_item.xml" timestamp="1537329696762" />
       <file name="$USER_HOME$/MyProject/Android/wsciis/app/src/main/AndroidManifest.xml" timestamp="1537314141180">
         <mark key="[" line="12" column="30" />
         <mark key="]" line="12" column="30" />
@@ -202,7 +207,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/GoogleDrive/MyProject/WSCIIS/WSCIIS/app/src/main/res/layout/login_activity.xml" timestamp="1537329057181">
+      <file name="$USER_HOME$/GoogleDrive/MyProject/WSCIIS/WSCIIS/app/src/main/res/layout/login_activity.xml" timestamp="1537329774527">
         <mark key="'" line="39" column="12" />
         <mark key="[" line="25" column="38" />
         <mark key="]" line="30" column="0" />
@@ -212,7 +217,7 @@
       <file name="$USER_HOME$/MyProject/Android/iosched/gradle.properties" timestamp="1537276219344">
         <mark key="[" line="12" column="35" />
       </file>
-      <file name="/fragment.java" timestamp="1537328681211">
+      <file name="/fragment.java" timestamp="1537329723510">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
