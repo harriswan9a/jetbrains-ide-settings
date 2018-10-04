@@ -1,0 +1,5 @@
+<application>
+  <component name="SqliteSettings">
+    <option name="port" value="10011" />
+  </component>
+</application>
