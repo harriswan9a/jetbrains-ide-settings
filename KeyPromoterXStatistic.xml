@@ -6,7 +6,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>88</Count>
+          <Count>94</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go to Column">
@@ -14,7 +14,7 @@
           <IdeaActionID>SqliteEditor.Actions.GoToColumn</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Go to Column</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Logcat">
@@ -30,7 +30,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
