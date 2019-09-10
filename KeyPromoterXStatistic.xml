@@ -30,7 +30,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>188</Count>
+          <Count>206</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -46,7 +46,7 @@
           <IdeaActionID>SqliteEditor.Actions.GoToColumn</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Go to Column</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Logcat">
@@ -102,7 +102,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>27</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
