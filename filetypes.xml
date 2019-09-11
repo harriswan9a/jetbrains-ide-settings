@@ -4,6 +4,7 @@
       <mapping pattern="RxBus" type="CLASS" />
       <mapping pattern="variant" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping pattern="basic-sample-db" type="SQL" />
     </extensionMap>
   </component>
 </application>
