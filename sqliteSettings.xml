@@ -1,6 +1,6 @@
 <application>
   <component name="SqliteSettings">
-    <option name="port" value="6097" />
+    <option name="port" value="30497" />
     <option name="databaseFolderPath" value="$USER_HOME$/Downloads" />
   </component>
 </application>
